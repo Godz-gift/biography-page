@@ -1,0 +1,19 @@
+/* Write your styles here! */
+h1 {
+  color: #ffc0cb;
+  border-bottom-style: dotted;
+}
+ul {
+  border-style: solid;
+  border-width: 5px;
+  border-color: purple;
+}
+a:hover {
+  color: green;
+}
+ul {
+  background-color: silver;
+  padding: 20px;
+  margin: 4px;
+  border-width: 5px;
+}
